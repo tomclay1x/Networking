@@ -13,11 +13,6 @@ These rules are defined by some terms
 -	Error correction 
 -	Termination of communications
 
-While we use internet download something they chop it into packets. These packets contain some information about starting and ending point. Some important information.
+While we use internet download something they chop it into packets. These packets contain some information about starting and ending point.
 
-TCP (transmission control protocol)
-
--	Communication protocol which is used for a network.
--	Divide a message in series.
--	 Three-way handshaking.
 
