@@ -34,7 +34,9 @@ Switch maintain MAC address table. == mapping of switch port table.
 •	Forward
 
 *Learn = update MAC address table with mapping of switch port with source MAC address.
+
 *Flood = duplicate and send the packets to all switch ports.
 (Contain packet have info SRC [sources] and DST [destination])
+
 *Forward = DST host reply to SRC by sending packets    
 
