@@ -15,7 +15,7 @@ These rules are defined by some terms
 -	Error correction 
 -	Termination of communications
 
-While we use internet download something they chop it into packets. These packets contain some information about starting and ending point.
+While we use internet download something chop it into packets. These packets contain some information about starting and ending point.
 
 
 # Networking Devices 
