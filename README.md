@@ -21,7 +21,8 @@ While we use internet download something chop it into packets. These packets con
 # Networking Devices 
 
 Switch 
-Layer two level devices that info about your mac address.
+
+Layer 2nd devices that info about your mac address.
 Switching data(packets)
 Devices communicating through switch belong to same network (IP).
 Switch maintain MAC address table. == mapping of switch port table.
